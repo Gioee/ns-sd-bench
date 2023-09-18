@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <switch.h>
+#include "define.c"
+#include "data.c"
+#include "dichiarazioni.c"
+#include "strumenti.c"
+#include "algoritmi/basic.c"
+#include "grafica.c"
